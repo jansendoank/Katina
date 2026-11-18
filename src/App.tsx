@@ -15,7 +15,7 @@ export default function App() {
   const [activePage, setActivePage] = useState<ActivePage>('redeem');
   const [selectedLang, setSelectedLang] = useState<LangCode>('EN');
   const [langMenuOpen, setLangMenuOpen] = useState(false);
-  const [accessNumbers, setAccessNumbers] = useState<string[]>(['0169977761 (WhatsApp)']);
+  const [accessNumbers, setAccessNumbers] = useState<string[]>(['mail.jansen@sang.ceo (Email)']);
   const [timeframeRules, setTimeframeRules] = useState<Array<{ duration: string; product: string }>>([]);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
@@ -124,7 +124,7 @@ export default function App() {
               <div className="flex items-center gap-2.5">
                 <img
                   src="/src/assets/images/voucher_mascot_guide_1794218783507.jpg"
-                  alt="BAGUS Indokat"
+                  alt="Jansen Redem"
                   referrerPolicy="no-referrer"
                   className="w-11 h-11 rounded-xl border-2 border-slate-900 object-cover shadow-[2px_2px_0px_0px_#1e293b] shrink-0"
                 />
