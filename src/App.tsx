@@ -134,7 +134,7 @@ export default function App() {
                   className="text-left focus:outline-none group"
                 >
                   <span className="font-display font-extrabold text-2xl sm:text-[26px] leading-none tracking-tight text-[#E41C26] group-hover:opacity-85 transition-opacity block">
-                    BAGUS Indokat
+                    Jansen Redem
                   </span>
                 </button>
               </div>
