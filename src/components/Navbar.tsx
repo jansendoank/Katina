@@ -42,7 +42,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           <span className="w-8 h-8 rounded-lg bg-blue-700 text-white flex items-center justify-center font-black text-xs shadow-xs rotate-[-2deg]">
             XL
           </span>
-          <span className="font-bold">BAGUS Indokat</span>
+          <span className="font-bold">Jansen Redem</span>
         </button>
 
         {/* Zone 2: Exact nav links of default xlbagus: Redeem, Check Status, Help, Time Frame */}
